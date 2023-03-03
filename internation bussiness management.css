@@ -1,0 +1,599 @@
+.head-icon{
+    display: flex;
+   margin: 0px 6px;
+    background-color: rgb(49, 14, 109);
+    color: #fff;
+}
+.mail-icon{
+    font-size: 22px;
+}
+.phone-icon{
+    font-size: 28px;
+}
+
+.heading{
+    display: flex;
+
+}
+.icon-head{
+    display: flex;
+}
+.mail-enquity{
+    margin: 29px 0px;
+    font-size: 17px;
+}
+
+.number{
+    margin: 28px 0px;
+    
+}
+.ibmc-phone{
+    margin: -31px 0px;
+    padding: 0px 28px;
+}
+
+
+.ibmc_header_main{
+    display: flex;
+    justify-content: space-between;
+}
+.ibmc_header_content{
+    display: flex;
+    margin-top: -5px;
+    font-size: 18px;
+}
+.ibmc_header_Phone{
+    color: #fff;
+    
+    margin-top: -5px;
+    margin-left: -16px;
+}
+.ibmc_header_social_icons{
+    display: flex;
+    justify-content: end;
+}
+.ibmc_image_outline{
+    border: 1px solid #fff;
+    margin: 0px 8px;
+    height: 30px;
+}
+.ibmc-text{
+    padding: 0px 34px;
+    margin: -26px 0px;
+}
+
+
+.header_bg{
+    background-color: #0a0a48;
+    padding: 20px 0px;
+    margin: 9px 10px;
+}
+.ibmc_header_details {
+    color: #fff;
+}
+
+.head-text{
+ margin: 0px 103px;
+   
+display: flex;
+}
+.fb{
+    padding: 0px 8px;
+}
+.twitter{
+    padding: 0px 2px;
+}
+.input{
+    padding: 0px 6px;
+}
+.img-logo{
+    margin: 27px 0px;
+}
+.img-head{
+    display: flex;
+    margin: 0px -198px;
+}
+.content{
+    display:flex;
+    margin: 56px -126px;
+    color: blue;
+}
+.head-template{
+    display: flex;
+    justify-content: space-around;
+}
+.contact-us{
+  margin: 0px 4px;
+  
+}
+.careers{
+padding: 0px 8px;
+}
+.service{
+    padding: 0px 8px;
+}
+.home{
+ padding: 0px 10px;
+}
+.photo{
+    padding: 0px 9px;
+}
+
+.about-us{
+    padding: 0px 15px;
+}
+.news{
+    padding: 0px 9px;
+}
+.internation-bussiness h2 {
+    color: #160b5e;
+    margin-top: 12px;
+}
+.bussiness-service{
+    display: flex;
+}
+.bussiness-service h4 {
+    color:#E83518;
+   
+  
+}
+.btn-type{
+    display: flex;
+    justify-content:flex-start;
+}
+.btn-get-started{
+    border: none;
+    padding: 7px 9px;
+    background-color:#E83518;
+    color: #fff;
+    
+}
+.btn-get-started i{
+    margin: 0px 8px;
+}
+.span{
+    color: #E83518!important;
+}
+.content-content{
+    margin-top: 27px;
+}
+.play-circle{
+    padding: 0px 30px;
+    font-size: 42px;
+    color: #fff;
+    margin: -15px 0px;
+}
+.play{
+    margin-top: 4px;
+}
+
+.bussiness-consequet{
+    display: flex!important;
+    margin-top: 50px;
+    height: 527px;
+}
+.head-content{
+    background-color:#E4e2de;
+    height: 550px;
+}
+.consulting-service{
+    margin-top: 112px;
+}
+.img{
+    margin-top: 22px;
+    float:right;
+}
+
+
+.improving-bussiness{
+    text-align: center;
+    color:#0a0a48;
+    margin-top: 62px;
+}
+.underline{
+    height: 7px;
+    width: 100px;
+    background-color: red;
+    margin-top: 10px;
+}
+.line-throught{
+    display: flex;
+}
+.card-body-1{
+background-color:#063970;
+height: 394px;
+text-align: center;
+    color: #fff;
+    font-size: 35px;
+    
+}
+.card-body-2{
+    background-color: #Ec141b;
+    text-align: center;
+    height: 397px;
+}
+.card-body-3{
+    background-color: #063570;
+    height: 394px;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+.img-bussiness{
+    display: block;
+    margin:15px auto;
+}
+
+.img-vision{
+    position: absolute;
+    margin: 42px 0px 0px 89px;
+}
+.img-vision p{
+    color: #Ec141b;
+          font-size: 17px;
+          margin-top: 7px;
+}
+.img-mission p{
+    color: #Ec141b;
+    margin-top: 15px;
+}
+.img-mission{
+    position: absolute!important;
+    margin: -50px 0px 0px 100px;
+    height: 368px;
+}
+.team-management p{
+    color: #Ec141b;
+    font-size: 18px;
+    margin-top: 11px;
+}
+.team-management{
+    position: absolute;
+    margin: 42px 0px 0px 78px;
+}
+
+.read{
+    padding: 55px 169px 0px 6px;
+    color: #fff;
+}
+.right-side{
+    margin: -77px 0px;
+    color: #fff;
+    font-size: 35px;
+}
+.righr-side i{
+    margin-top: 38px;
+}
+.lorem-ispem{
+    text-align: center;
+    margin-top: 83px;
+}
+.consulting-bussiness{
+    color: #063570;
+}
+.consectetur{
+    color:#817874;
+    margin-top: 33px;
+}
+.btn-stocks{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    
+    color: #fff;
+    padding: 8px 21px;
+    font-size: 18px;
+    border-radius: 4px;
+}
+.btn-stocks i{
+    padding: 0px 10px;
+}
+
+.long-arrow-right i{
+
+    padding: 5px 11px;
+}
+.card-img-vision p{
+    color: #ec141b;
+    font-size: 19px;
+}
+.card-1{
+    margin-top: 50px;
+}
+.consultants{
+    color: #063470;
+}
+.Medium-entreprise{
+    color: #817874;
+    margin-top: 28px;
+}
+.btn-more{
+    
+  color:#fff;
+  padding:7px 16px; 
+  font-size:18px;
+}
+.img-net{
+    display: block;
+    margin: 15px auto;
+     height:51px;
+      width:62px;
+}
+.welcome{
+    margin-top: 65px;
+    
+}
+.bussiness-consulting{
+    text-align: center;
+}
+.bussiness-field{
+    text-align: center;
+}
+.img-plan{
+    border-radius: 17px;
+    margin: 26px 21px;
+}
+.corporate-sectretatial{
+    text-align: center;
+    margin-top: 137px;
+}
+.img-experience{
+    height: 170px;
+    position: absolute;
+    top: 15px;
+    width: 26%;
+    left: 274px;
+    border-radius: 103px;
+    background: orangered;
+}
+.img-experience h5{
+    font-size: 21px;
+    padding: 56px 5px;
+    text-align: center;
+    color: #fff;
+}
+.hand-shake{
+    border-radius: 87px;
+    position: absolute;
+    height: 182px;  width: 190px;
+    background-color: #Ec141b;
+    margin: -95px 108px;
+    display: block;
+}
+.head-corporate{
+    color: #083470;
+    margin-top: 16px;
+}
+.consectur{
+    color: #817478;
+    margin-top: 28px;
+    font-size: 21px;
+}
+.circle-pic{
+    position: relative;
+   overflow: hidden;
+   height:486px!important;
+}
+.id-work{
+    position: relative;
+}
+.bussiness-template{
+    color: #083470;
+    margin-top: 7px;
+    
+}
+.Accounting-services{
+    text-align: center;
+    color: #083470;
+    margin-top: 6px;
+}
+.circle-1{
+    background-color: #Ec141b;
+    height: 51px;
+    width: 49px;
+
+    border-radius: 27px;
+    margin: 0px 183px;
+    position: absolute;
+    z-index: 5;
+    bottom: 70px;
+}
+.img-accounting{
+    height: 278px;
+    width: 378px;
+margin: 25px 16px;
+z-index:2
+}
+.img-tax{
+    height: 84px;
+    width: 69px;
+    display: block;
+    margin: 10px auto;
+}
+.tax{
+    text-align: center;
+    color: #083470;
+}
+.paper-img{
+    margin: 25px 10px;
+    border-radius: 7px;
+}
+.planning-img{
+    height: 67px;
+    width: 80px;
+    display: block;
+    margin: 11px auto;
+}
+.man-power{
+    text-align: center;
+    color: #083470;
+}
+.Immigation-service{
+    margin: 14px 13px;
+    border-radius: 5px;
+}
+.id-service{
+    height: 68px;
+    width: 76px;
+    display: block;
+    margin: 16px auto;
+}
+.head-idservice{
+    text-align: center;
+    color: #083470;
+}
+.id-company{
+    height: 242px;
+    width: 389px;
+    margin: 32px 12px;
+}
+.bussiness-strategy{
+    color: #083470;
+   font-size: 25px;
+    margin: 0px 10px;
+}
+
+.secretatial{
+    margin-top: 63px;
+}
+.circle-2{
+    bottom: 9px;
+    color: #fff;
+    background-color: #ec141b;
+    height: 51px;
+    width: 52px;
+    margin: 22px 178px;
+    border-radius: 28px;
+    position: absolute;
+    z-index: 5;
+}
+.icon-right{
+    margin: 12px 18px;
+    font-size: 18px;
+}
+.taxation{
+    margin-top: 54px;
+}
+.latest-blog{
+    text-align: center;
+    color:#083470;
+    margin-top: 38px;
+}
+.btn-field{
+
+    text-align: center!important;
+     color:#fff!important;
+        padding: 6px 17px!important;
+        font-size: 17px!important;
+        margin-top:38px!important;
+    
+}
+.btn-field i{
+    padding: 0px 10px;
+}
+.marketing-system{
+    margin: 0px 10px;
+    font-size: 21px;
+}
+.group-discussion{
+    margin: -28px 15px;
+}
+.date{
+    background-color: #083470;
+    height: 77px;
+    width: 68px;
+    position: relative;
+    z-index: 5;
+    margin: -17px 318px;
+}
+.date p{
+    color: #fff;
+    margin: 14px 18px;
+    font-size: 17px;
+}
+.talk{
+    margin: -26px 16px;
+}
+.img-work{
+    margin: -22px 16px;
+}
+.update-system{
+    margin-top: 38px;
+}
+
+.system{
+    margin-top: 47px;
+}
+.learn{
+    margin-top: 47px;
+    text-align: center;
+    color: #fff;
+}
+.app{
+    display:flex;
+    padding: 30px 34px;
+    color: #fff;
+}
+.twitter-square{
+    padding: 0px 9px;
+}
+.pinterest-square{
+    padding: 0px 3px;
+}
+.linkedin-square{
+    padding: 0px 6px;
+}
+.link{
+    margin-top: 34px;
+}
+.stock-carees{
+    margin-top: 35px;
+    padding: 27px 0px;
+}
+.album{
+    margin-top: 37px;
+}
+.output{
+margin-top: 40px;
+}
+.about-link{
+    margin-top: 32px;
+}
+.text{
+padding: 0px 25px;
+margin: -27px 0px;
+}
+.phone-number{
+    padding: 0px 27px;
+    margin: -27px -9px;
+}
+.telephone{
+    margin-top: 45px;
+}
+.mobile{
+    margin-top: 75px;
+}
+.foot-mail{
+    margin-top: 45px;
+}
+.footer-contact{
+    margin-top: 48px;
+    padding: 0px 66px;
+    color: #fff;
+}
+.ibmc{
+    background-color: #083470;
+    margin-top: 63px;
+}
+.pretium{
+    color:#fff;
+}
+.social_media_icon{
+    border: 1px solid #fff;
+    margin: 0px 5px;
+    text-align: center;
+}
+.bussiness_marketing{
+    height: 462px;
+}
